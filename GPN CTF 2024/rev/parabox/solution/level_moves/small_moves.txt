@@ -1,0 +1,35 @@
+# Small_0
+UP
+RIGHT
+RIGHT
+RIGHT
+DOWN
+RIGHT
+RIGHT
+UP
+LEFT
+LEFT
+LEFT
+LEFT
+DOWN
+LEFT
+UP
+UP
+UP
+UP
+DOWN
+DOWN
+DOWN
+RIGHT
+RIGHT
+RIGHT
+RIGHT
+UP
+UP
+UP
+UP
+UP
+# Extra moves to store optimal snapshot (stall more if necessary)
+DOWN
+UP
+RIGHT
